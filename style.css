@@ -425,10 +425,33 @@ body {
     margin-top: 8px;
 
     width: 804px;
-    height: 560px;
+    height: 900px;
 
     border-radius: 0.7em;
     border: 2px solid #dfdeda;
 
     overflow: hidden
+}
+
+.the-paragraph h1 {
+    color: #525252;
+
+    margin-left: 2%;
+
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.the-paragraph p {
+    color: #525252;
+
+    margin-left: 2%;
+
+    font-size: 18px;
+    font-weight: 500;
+
+    padding-right: 10px;
+
+    overflow-wrap: break-word;
+    white-space: normal;
 }
